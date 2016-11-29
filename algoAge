@@ -1,0 +1,14 @@
+programme algo Age
+
+	variable utilisées
+		T = année dans laquelle nous sommes soit 2016
+		A = âge
+		Y = année
+
+	début
+
+	afficher "taper votre âge: "
+	traitement T-A = Y
+	afficher Y
+
+	fin
